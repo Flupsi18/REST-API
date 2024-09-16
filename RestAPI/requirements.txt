@@ -1,0 +1,11 @@
+fastapi
+pydantic
+uvicorn[standard]
+pymongo
+python-jose
+passlib
+bcrypt==4.0.1
+python-multipart
+motor
+starlette
+typing_extensions
